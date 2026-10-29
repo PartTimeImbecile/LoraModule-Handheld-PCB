@@ -8,3 +8,5 @@ Along with this, the supermini s3 shares a footprint with many other superminis,
 
 
 <img width="742" height="551" alt="image" src="https://github.com/user-attachments/assets/94ee744a-619b-44a4-ade6-f37950b56372" />
+
+<img width="1210" height="386" alt="image" src="https://github.com/user-attachments/assets/15b2e362-31d6-468a-bb6b-b00448c778b6" />
