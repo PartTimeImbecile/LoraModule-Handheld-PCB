@@ -1,7 +1,7 @@
 # LoraModule-Project-PCB
 An ultra cheap pcb I created for combining an ESP32S3 Supermini and a wide variety of Lora SMD chips such as the RA-01SH, this design is not meant to be used as a relay/Transmission node for extended periods of time due to the strain on the esp32s internal voltage converter, while it will function and do so quite decently, my other project is much better built for this while being only mildly more expensive. 
 
-WARNING- DO NOT USE WITH RA-01SH-P, The P model is a higher drain edition of the module im using specially made for transmiting, it draws about 1A (at +31 Dbm) and would fry the esp if used with this pcb.
+WARNING- DO NOT USE WITH RA-01SH-P, The P model is a higher drain edition of the module im using specially made for transmiting, it draws about 1A (at +31 Dbm) and would fry the esp if used with this pcb and it also has a different pinout, it includes a vccpa pin which accepts 5v directly for a higher transmit power. In summary, check the max draw and ensure its around 300-400 Milliamps at most.
 
 I ordered my pcb from pcbway, it cost me around 5 euro for 5 of them and delivery was quite cheap, so if anyone wants to replicate it, its not too expensive.
 
