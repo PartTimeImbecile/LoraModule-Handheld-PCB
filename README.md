@@ -1,6 +1,8 @@
 # LoraModule-Project-PCB
 A simple pcb I created for combining an ESP32S3 Supermini and a wide variety of Lora SMD chips such as the RA-01SH
+
 I ordered my pcb from pcbway, it cost me around 5 euro for 5 of them and delivery was quite cheap, so if anyone wants to replicate it, its not too expensive.
+
 The RA chips can be found on aliexpress for around 3 euro each and the s3 supermini is around 2 euro if bought directly from the maker on aliexpress
 
 ## Compatibility Notes
